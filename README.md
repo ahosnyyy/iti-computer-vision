@@ -3,8 +3,8 @@
 ## Getting Started
 
 ```bash
-git clone https://github.com/ahosnyyy/cv-iti.git
-cd cv-iti
+git clone https://github.com/ahosnyyy/iti-computer-vision.git
+cd iti-computer-vision
 ```
 
 ### Conda
